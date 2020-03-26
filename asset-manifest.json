@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/movie-picker/static/css/main.1e93d2cb.chunk.css",
+    "main.js": "/movie-picker/static/js/main.2f8044ba.chunk.js",
+    "main.js.map": "/movie-picker/static/js/main.2f8044ba.chunk.js.map",
+    "runtime-main.js": "/movie-picker/static/js/runtime-main.593f545c.js",
+    "runtime-main.js.map": "/movie-picker/static/js/runtime-main.593f545c.js.map",
+    "static/css/2.67123b20.chunk.css": "/movie-picker/static/css/2.67123b20.chunk.css",
+    "static/js/2.7be208d3.chunk.js": "/movie-picker/static/js/2.7be208d3.chunk.js",
+    "static/js/2.7be208d3.chunk.js.map": "/movie-picker/static/js/2.7be208d3.chunk.js.map",
+    "index.html": "/movie-picker/index.html",
+    "precache-manifest.235400d360ebd3c6a429333af08f07bd.js": "/movie-picker/precache-manifest.235400d360ebd3c6a429333af08f07bd.js",
+    "service-worker.js": "/movie-picker/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/movie-picker/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.1e93d2cb.chunk.css.map": "/movie-picker/static/css/main.1e93d2cb.chunk.css.map",
+    "static/js/2.7be208d3.chunk.js.LICENSE.txt": "/movie-picker/static/js/2.7be208d3.chunk.js.LICENSE.txt",
+    "static/media/blockbuster-movies-1.jpg": "/movie-picker/static/media/blockbuster-movies-1.38615a21.jpg",
+    "static/media/classic-movies.jpg": "/movie-picker/static/media/classic-movies.18a52d27.jpg",
+    "static/media/drama-movies.jpg": "/movie-picker/static/media/drama-movies.ba36325c.jpg",
+    "static/media/parallax-movies-bg.jpg": "/movie-picker/static/media/parallax-movies-bg.b3666bd1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.593f545c.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.7be208d3.chunk.js",
+    "static/css/main.1e93d2cb.chunk.css",
+    "static/js/main.2f8044ba.chunk.js"
+  ]
+}
